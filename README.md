@@ -1,35 +1,31 @@
-# Hello World  
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da plataforma.
+## Alterações no Branch  
+Este texto foi adicionado para demonstrar a criação e edição de branches.
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da plataforma.
-``
+Este texto foi adicionado para demonstrar a criação e edição de branches.
+`
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da plataforma.
+Este texto foi adicionado para demonstrar a criação e edição de branches.
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da plataforma
+Este texto foi adicionado para demonstrar a criação e edição de 
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da plata
+Este texto foi adicionado para demonstrar a criação e edição 
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas da
+Este texto foi adicionado para demonstrar a criação e ediç
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades básicas
+Este texto foi adicionado para demonstrar a criação e e
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades bási
+Este texto foi adicionado para demonstrar a criação
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalidades 
+Este texto foi adicionado para demonstrar a cri
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcionalida
+Este texto foi adicionado
 
-Este é o meu primeiro repositório no GitHub. Explorando as funcion
+Este texto foi adicion
 
-Este é o meu primeiro repositório no GitHub. Explorando as fu
+Este texto foi adic
 
-Este é o meu primeiro repositório no GitHub. Explorando
+Este texto foi a
 
-Este é o meu primeiro repositório no
+Este texto f
 
-Este é o meu primeiro repositório
-
-Este é o meu pr
-
-Este é o meu
+Este
